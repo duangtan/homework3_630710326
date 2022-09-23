@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:homework3/%E0%B8%B5utils/helpers.dart';
 import 'package:homework3/Pages/game.dart';
+import 'package:homework3/utils/helpers.dart';
 
 class GuessPage extends StatefulWidget {
   const GuessPage({Key? key}) : super(key: key);
